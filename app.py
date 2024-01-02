@@ -5,7 +5,7 @@ import pandas as pd
 
 
 app=Dash(__name__)
-sever=app.server
+server=app.server
 colors={'background':'#050506',
         'text':'#ebebf0'
         }
